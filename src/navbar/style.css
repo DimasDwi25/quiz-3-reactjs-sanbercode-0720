@@ -1,0 +1,36 @@
+.navbar {
+    background-color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    position: fixed;
+    z-index: 9999;
+
+}
+
+.navbar img {
+    float: left;
+    width: 200px;
+}
+
+.clear {
+    clear: both;
+}
+.switch{
+    padding: 10px;
+}
+.link{
+    padding-bottom: 20px;
+}
+.link ul {
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 5px;
+
+}
+
+.link li {
+    display: inline-block;
+    color: blue;
+    margin-right: 20px;
+}
